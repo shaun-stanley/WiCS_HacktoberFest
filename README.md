@@ -1,1 +1,3 @@
 # WiCS_HacktoberFest
+
+AMAZING!
